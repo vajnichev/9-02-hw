@@ -19,7 +19,10 @@
 
 1. `Прикрепите в файл README.md скриншот авторизации в админке.`
 
-![png]()
+![png](https://github.com/vajnichev/9-02-hw/blob/main/img/9.0.1.png)
+![png](https://github.com/vajnichev/9-02-hw/blob/main/img/9.0.2.png)
+![png](https://github.com/vajnichev/9-02-hw/blob/main/img/9.0.3.png)
+
 
 2. `Приложите в файл README.md текст использованных команд в GitHub.`
 
@@ -73,15 +76,18 @@ DBPassword=password DBPassword=123456789
 
 1. `риложите в файл README.md скриншот раздела Configuration > Hosts, где видно, что агенты подключены к серверу`
 
-![png]()
+![png](https://github.com/vajnichev/9-02-hw/blob/main/img/9.0.4.png)
+
 
 2. `Приложите в файл README.md скриншот лога zabbix agent, где видно, что он работает с сервером`
 
-![png]()
+![png](https://github.com/vajnichev/9-02-hw/blob/main/img/9.0.5.png)
+![png](https://github.com/vajnichev/9-02-hw/blob/main/img/9.0.6.png)
+
 
 3. `Приложите в файл README.md скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные.`
 
-![png]()
+![png](https://github.com/vajnichev/9-02-hw/blob/main/img/9.0.7.png)
 
 4. `Приложите в файл README.md текст использованных команд в GitHub`
 
